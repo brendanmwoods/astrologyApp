@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var birthdate:UIDatePicker?
     @IBOutlet weak var astrologySignDisplayPrefix:UILabel?
     @IBOutlet weak var astrologySignDisplay:UILabel?
+    @IBOutlet weak var astrologySignImage:UIImageView?
     
     var astrologySign = ""
     var birthdateEntered:(month:String,day:Int) = ("",0)
@@ -142,6 +143,7 @@ class ViewController: UIViewController {
     func displaySign() {
         astrologySignDisplayPrefix?.text = "You are a"
         astrologySignDisplay?.text = astrologySign
+        astrologySignImage?.image = UIImage(named: "\(astrologySign).jpg")
     }
 }
 

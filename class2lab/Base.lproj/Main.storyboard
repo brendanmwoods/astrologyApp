@@ -9,7 +9,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="class2lab" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Astrology" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -35,16 +35,16 @@
                                     <action selector="submitDate:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hku-us-YjY"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" image="aquarius.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="jh5-4s-PQr">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" ambiguous="YES" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="jh5-4s-PQr">
                                 <rect key="frame" x="112" y="509" width="150" height="150"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OIu-dV-h2z">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OIu-dV-h2z">
                                 <rect key="frame" x="16" y="439" width="343" height="62"/>
                                 <fontDescription key="fontDescription" type="system" weight="thin" pointSize="37"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Enter Your Birthday" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uXa-VE-Lt6">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Enter Your Birthday" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uXa-VE-Lt6">
                                 <rect key="frame" x="114" y="410" width="146" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="136" id="MiF-rb-VWa"/>
@@ -99,6 +99,7 @@
                     <connections>
                         <outlet property="astrologySignDisplay" destination="OIu-dV-h2z" id="6DQ-Gn-9cf"/>
                         <outlet property="astrologySignDisplayPrefix" destination="uXa-VE-Lt6" id="a1I-Ge-XAv"/>
+                        <outlet property="astrologySignImage" destination="jh5-4s-PQr" id="Wfr-js-jLV"/>
                         <outlet property="birthdate" destination="90X-q5-74m" id="tPJ-qR-lTx"/>
                     </connections>
                 </viewController>
@@ -107,7 +108,4 @@
             <point key="canvasLocation" x="322.5" y="320.5"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="aquarius.jpg" width="150" height="150"/>
-    </resources>
 </document>
