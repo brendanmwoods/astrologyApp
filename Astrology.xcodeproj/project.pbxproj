@@ -14,18 +14,18 @@
 		BC16B5F91C58717000A6578C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC16B5F71C58717000A6578C /* LaunchScreen.storyboard */; };
 		BC16B6041C58717100A6578C /* class2labTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC16B6031C58717100A6578C /* class2labTests.swift */; };
 		BC16B60F1C58717100A6578C /* class2labUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC16B60E1C58717100A6578C /* class2labUITests.swift */; };
-		BC16B62B1C58AFAA00A6578C /* aquarius.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B61F1C58AFAA00A6578C /* aquarius.jpg */; };
-		BC16B62C1C58AFAA00A6578C /* aries.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6201C58AFAA00A6578C /* aries.jpg */; };
-		BC16B62D1C58AFAA00A6578C /* cancer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6211C58AFAA00A6578C /* cancer.jpg */; };
-		BC16B62E1C58AFAA00A6578C /* capricorn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6221C58AFAA00A6578C /* capricorn.jpg */; };
-		BC16B62F1C58AFAA00A6578C /* gemini.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6231C58AFAA00A6578C /* gemini.jpg */; };
-		BC16B6301C58AFAA00A6578C /* leo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6241C58AFAA00A6578C /* leo.jpg */; };
-		BC16B6311C58AFAA00A6578C /* libra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6251C58AFAA00A6578C /* libra.jpg */; };
-		BC16B6321C58AFAA00A6578C /* pisces.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6261C58AFAA00A6578C /* pisces.jpg */; };
-		BC16B6331C58AFAA00A6578C /* sagittarius.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6271C58AFAA00A6578C /* sagittarius.jpg */; };
-		BC16B6341C58AFAA00A6578C /* scorpio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6281C58AFAA00A6578C /* scorpio.jpg */; };
-		BC16B6351C58AFAA00A6578C /* taurus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6291C58AFAA00A6578C /* taurus.jpg */; };
-		BC16B6361C58AFAA00A6578C /* virgo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B62A1C58AFAA00A6578C /* virgo.jpg */; };
+		BC16B62B1C58AFAA00A6578C /* Aquarius.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B61F1C58AFAA00A6578C /* Aquarius.jpg */; };
+		BC16B62C1C58AFAA00A6578C /* Aries.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6201C58AFAA00A6578C /* Aries.jpg */; };
+		BC16B62D1C58AFAA00A6578C /* Cancer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6211C58AFAA00A6578C /* Cancer.jpg */; };
+		BC16B62E1C58AFAA00A6578C /* Capricorn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6221C58AFAA00A6578C /* Capricorn.jpg */; };
+		BC16B62F1C58AFAA00A6578C /* Gemini.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6231C58AFAA00A6578C /* Gemini.jpg */; };
+		BC16B6301C58AFAA00A6578C /* Leo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6241C58AFAA00A6578C /* Leo.jpg */; };
+		BC16B6311C58AFAA00A6578C /* Libra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6251C58AFAA00A6578C /* Libra.jpg */; };
+		BC16B6321C58AFAA00A6578C /* Pisces.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6261C58AFAA00A6578C /* Pisces.jpg */; };
+		BC16B6331C58AFAA00A6578C /* Sagittarius.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6271C58AFAA00A6578C /* Sagittarius.jpg */; };
+		BC16B6341C58AFAA00A6578C /* Scorpio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6281C58AFAA00A6578C /* Scorpio.jpg */; };
+		BC16B6351C58AFAA00A6578C /* Taurus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B6291C58AFAA00A6578C /* Taurus.jpg */; };
+		BC16B6361C58AFAA00A6578C /* Virgo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC16B62A1C58AFAA00A6578C /* Virgo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,18 +59,18 @@
 		BC16B60A1C58717100A6578C /* Astrology.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Astrology.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC16B60E1C58717100A6578C /* class2labUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = class2labUITests.swift; sourceTree = "<group>"; };
 		BC16B6101C58717100A6578C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BC16B61F1C58AFAA00A6578C /* aquarius.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aquarius.jpg; sourceTree = "<group>"; };
-		BC16B6201C58AFAA00A6578C /* aries.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aries.jpg; sourceTree = "<group>"; };
-		BC16B6211C58AFAA00A6578C /* cancer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cancer.jpg; sourceTree = "<group>"; };
-		BC16B6221C58AFAA00A6578C /* capricorn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = capricorn.jpg; sourceTree = "<group>"; };
-		BC16B6231C58AFAA00A6578C /* gemini.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gemini.jpg; sourceTree = "<group>"; };
-		BC16B6241C58AFAA00A6578C /* leo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = leo.jpg; sourceTree = "<group>"; };
-		BC16B6251C58AFAA00A6578C /* libra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = libra.jpg; sourceTree = "<group>"; };
-		BC16B6261C58AFAA00A6578C /* pisces.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pisces.jpg; sourceTree = "<group>"; };
-		BC16B6271C58AFAA00A6578C /* sagittarius.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sagittarius.jpg; sourceTree = "<group>"; };
-		BC16B6281C58AFAA00A6578C /* scorpio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = scorpio.jpg; sourceTree = "<group>"; };
-		BC16B6291C58AFAA00A6578C /* taurus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taurus.jpg; sourceTree = "<group>"; };
-		BC16B62A1C58AFAA00A6578C /* virgo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = virgo.jpg; sourceTree = "<group>"; };
+		BC16B61F1C58AFAA00A6578C /* Aquarius.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Aquarius.jpg; sourceTree = "<group>"; };
+		BC16B6201C58AFAA00A6578C /* Aries.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Aries.jpg; sourceTree = "<group>"; };
+		BC16B6211C58AFAA00A6578C /* Cancer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cancer.jpg; sourceTree = "<group>"; };
+		BC16B6221C58AFAA00A6578C /* Capricorn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Capricorn.jpg; sourceTree = "<group>"; };
+		BC16B6231C58AFAA00A6578C /* Gemini.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Gemini.jpg; sourceTree = "<group>"; };
+		BC16B6241C58AFAA00A6578C /* Leo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Leo.jpg; sourceTree = "<group>"; };
+		BC16B6251C58AFAA00A6578C /* Libra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Libra.jpg; sourceTree = "<group>"; };
+		BC16B6261C58AFAA00A6578C /* Pisces.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pisces.jpg; sourceTree = "<group>"; };
+		BC16B6271C58AFAA00A6578C /* Sagittarius.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sagittarius.jpg; sourceTree = "<group>"; };
+		BC16B6281C58AFAA00A6578C /* Scorpio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Scorpio.jpg; sourceTree = "<group>"; };
+		BC16B6291C58AFAA00A6578C /* Taurus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Taurus.jpg; sourceTree = "<group>"; };
+		BC16B62A1C58AFAA00A6578C /* Virgo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Virgo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,18 +153,18 @@
 		BC16B61E1C58AF9500A6578C /* images */ = {
 			isa = PBXGroup;
 			children = (
-				BC16B61F1C58AFAA00A6578C /* aquarius.jpg */,
-				BC16B6201C58AFAA00A6578C /* aries.jpg */,
-				BC16B6211C58AFAA00A6578C /* cancer.jpg */,
-				BC16B6221C58AFAA00A6578C /* capricorn.jpg */,
-				BC16B6231C58AFAA00A6578C /* gemini.jpg */,
-				BC16B6241C58AFAA00A6578C /* leo.jpg */,
-				BC16B6251C58AFAA00A6578C /* libra.jpg */,
-				BC16B6261C58AFAA00A6578C /* pisces.jpg */,
-				BC16B6271C58AFAA00A6578C /* sagittarius.jpg */,
-				BC16B6281C58AFAA00A6578C /* scorpio.jpg */,
-				BC16B6291C58AFAA00A6578C /* taurus.jpg */,
-				BC16B62A1C58AFAA00A6578C /* virgo.jpg */,
+				BC16B61F1C58AFAA00A6578C /* Aquarius.jpg */,
+				BC16B6201C58AFAA00A6578C /* Aries.jpg */,
+				BC16B6211C58AFAA00A6578C /* Cancer.jpg */,
+				BC16B6221C58AFAA00A6578C /* Capricorn.jpg */,
+				BC16B6231C58AFAA00A6578C /* Gemini.jpg */,
+				BC16B6241C58AFAA00A6578C /* Leo.jpg */,
+				BC16B6251C58AFAA00A6578C /* Libra.jpg */,
+				BC16B6261C58AFAA00A6578C /* Pisces.jpg */,
+				BC16B6271C58AFAA00A6578C /* Sagittarius.jpg */,
+				BC16B6281C58AFAA00A6578C /* Scorpio.jpg */,
+				BC16B6291C58AFAA00A6578C /* Taurus.jpg */,
+				BC16B62A1C58AFAA00A6578C /* Virgo.jpg */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -277,20 +277,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC16B5F91C58717000A6578C /* LaunchScreen.storyboard in Resources */,
-				BC16B6341C58AFAA00A6578C /* scorpio.jpg in Resources */,
-				BC16B62C1C58AFAA00A6578C /* aries.jpg in Resources */,
-				BC16B6331C58AFAA00A6578C /* sagittarius.jpg in Resources */,
-				BC16B62F1C58AFAA00A6578C /* gemini.jpg in Resources */,
-				BC16B6301C58AFAA00A6578C /* leo.jpg in Resources */,
+				BC16B6341C58AFAA00A6578C /* Scorpio.jpg in Resources */,
+				BC16B62C1C58AFAA00A6578C /* Aries.jpg in Resources */,
+				BC16B6331C58AFAA00A6578C /* Sagittarius.jpg in Resources */,
+				BC16B62F1C58AFAA00A6578C /* Gemini.jpg in Resources */,
+				BC16B6301C58AFAA00A6578C /* Leo.jpg in Resources */,
 				BC16B5F61C58717000A6578C /* Assets.xcassets in Resources */,
-				BC16B6351C58AFAA00A6578C /* taurus.jpg in Resources */,
-				BC16B62B1C58AFAA00A6578C /* aquarius.jpg in Resources */,
+				BC16B6351C58AFAA00A6578C /* Taurus.jpg in Resources */,
+				BC16B62B1C58AFAA00A6578C /* Aquarius.jpg in Resources */,
 				BC16B5F41C58717000A6578C /* Main.storyboard in Resources */,
-				BC16B6321C58AFAA00A6578C /* pisces.jpg in Resources */,
-				BC16B62D1C58AFAA00A6578C /* cancer.jpg in Resources */,
-				BC16B6311C58AFAA00A6578C /* libra.jpg in Resources */,
-				BC16B6361C58AFAA00A6578C /* virgo.jpg in Resources */,
-				BC16B62E1C58AFAA00A6578C /* capricorn.jpg in Resources */,
+				BC16B6321C58AFAA00A6578C /* Pisces.jpg in Resources */,
+				BC16B62D1C58AFAA00A6578C /* Cancer.jpg in Resources */,
+				BC16B6311C58AFAA00A6578C /* Libra.jpg in Resources */,
+				BC16B6361C58AFAA00A6578C /* Virgo.jpg in Resources */,
+				BC16B62E1C58AFAA00A6578C /* Capricorn.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
